@@ -1,4 +1,4 @@
-# Binary Neural Network with 1T1R Memristor Crossbar
+# \[NC\] Binary Neural Network with 1T1R Memristor Crossbar
 
 This repository contains the simulation and training code for our Nature Communications paper on **binary neural networks (BNNs) deployed on 1T1R memristor arrays**. The work explores binarizing a Network-in-Network (NIN) backbone for image classification (CIFAR-10, MNIST), also replacing the final classification layer with a 0/1-weight memristor crossbar, and systematically evaluating robustness under noise, quantization, and sparsity.
 
