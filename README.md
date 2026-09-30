@@ -281,4 +281,8 @@ This two-stage approach ensures the CNN learns good features before the memristo
 
 ## Citation
 
-If you use this code, please cite our Nature Communications paper (forthcoming).
+If you use this code, please cite our Nature Communications paper:
+
+> Y. Hong, Y. Liu, R. Zhao, *et al.* Fast and robust memristive cell based on 2D materials for energy-efficient in-memory computing. *Nature Communications* (forthcoming).
+
+The exact version of the code used in the paper is archived on Zenodo (DOI will be added after the v1.0.0 release). Citation metadata for this software is provided in [`CITATION.cff`](CITATION.cff).

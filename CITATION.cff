@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Fast and robust memristive cell based on 2D materials for energy-efficient in-memory computing"
+abstract: >-
+  Simulation and training code for binary neural networks (BNNs) deployed on
+  1T1R memristor arrays, including two-stage training with a 0/1-weight
+  memristor crossbar classifier, robustness evaluation under noise,
+  quantization and sparsity, and circuit-level 1T1R array simulation.
+authors:
+  - family-names: Hong
+    given-names: Yuwan
+    orcid: "https://orcid.org/0009-0003-8406-094X"
+    affiliation: "School of Integrated Circuits, Tsinghua University, Beijing 100084, China"
+  - family-names: Zhao
+    given-names: Ruoyu
+    orcid: "https://orcid.org/0009-0008-8170-4208"
+    affiliation: "Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong SAR, China"
+version: 1.0.0
+date-released: 2026-09-30
+license: MIT
+repository-code: "https://github.com/THUROI0787/BNN-Simulation-for-1T1R"
+keywords:
+  - binary neural network
+  - memristor
+  - 1T1R
+  - in-memory computing
+  - 2D materials

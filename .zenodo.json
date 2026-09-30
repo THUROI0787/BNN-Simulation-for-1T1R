@@ -1,0 +1,27 @@
+{
+  "title": "Fast and robust memristive cell based on 2D materials for energy-efficient in-memory computing",
+  "upload_type": "software",
+  "description": "Simulation and training code for binary neural networks (BNNs) deployed on 1T1R memristor arrays, including two-stage training with a 0/1-weight memristor crossbar classifier, robustness evaluation under noise, quantization and sparsity, and circuit-level 1T1R array simulation. This is the version of the code used in the associated Nature Communications paper.",
+  "creators": [
+    {
+      "name": "Hong, Yuwan",
+      "affiliation": "School of Integrated Circuits, Tsinghua University, Beijing 100084, China",
+      "orcid": "0009-0003-8406-094X"
+    },
+    {
+      "name": "Zhao, Ruoyu",
+      "affiliation": "Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong SAR, China",
+      "orcid": "0009-0008-8170-4208"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "binary neural network",
+    "memristor",
+    "1T1R",
+    "in-memory computing",
+    "2D materials"
+  ]
+}
