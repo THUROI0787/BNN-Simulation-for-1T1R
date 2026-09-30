@@ -8,14 +8,14 @@ abstract: >-
   memristor crossbar classifier, robustness evaluation under noise,
   quantization and sparsity, and circuit-level 1T1R array simulation.
 authors:
-  - family-names: Hong
-    given-names: Yuwan
-    orcid: "https://orcid.org/0009-0003-8406-094X"
-    affiliation: "School of Integrated Circuits, Tsinghua University, Beijing 100084, China"
   - family-names: Zhao
     given-names: Ruoyu
     orcid: "https://orcid.org/0009-0008-8170-4208"
     affiliation: "Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong SAR, China"
+  - family-names: Hong
+    given-names: Yuwan
+    orcid: "https://orcid.org/0009-0003-8406-094X"
+    affiliation: "School of Integrated Circuits, Tsinghua University, Beijing 100084, China"
 version: 1.0.0
 date-released: 2026-09-30
 license: MIT
