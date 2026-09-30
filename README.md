@@ -1,5 +1,7 @@
 # \[NC\] Binary Neural Network with 1T1R Memristor Crossbar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23050803.svg)](https://doi.org/10.5281/zenodo.23050803)
+
 This repository contains the simulation and training code for our Nature Communications paper on **binary neural networks (BNNs) deployed on 1T1R memristor arrays**. The work explores binarizing a Network-in-Network (NIN) backbone for image classification (CIFAR-10, MNIST), also replacing the final classification layer with a 0/1-weight memristor crossbar, and systematically evaluating robustness under noise, quantization, and sparsity.
 
 ## Project Structure
@@ -285,4 +287,8 @@ If you use this code, please cite our Nature Communications paper:
 
 > Y. Hong, Y. Liu, R. Zhao, *et al.* Fast and robust memristive cell based on 2D materials for energy-efficient in-memory computing. *Nature Communications* (forthcoming).
 
-The exact version of the code used in the paper is archived on Zenodo (DOI will be added after the v1.0.0 release). Citation metadata for this software is provided in [`CITATION.cff`](CITATION.cff).
+The exact version of the code used in the paper (v1.0.0) is archived on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23050803.svg)](https://doi.org/10.5281/zenodo.23050803)
+
+> R. Zhao & Y. Hong. Fast and robust memristive cell based on 2D materials for energy-efficient in-memory computing. *THUROI0787/BNN-Simulation-for-1T1R*, Zenodo, https://doi.org/10.5281/zenodo.23050803 (2026).
+
+Citation metadata for this software is provided in [`CITATION.cff`](CITATION.cff).
